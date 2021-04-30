@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NaninSultan/node-server.git"
+    "url": "git+https://github.com/Spadalow/node-server.git"
   },
   "keywords": [
     "node",
     "server"
   ],
-  "author": "NaninSultan",
+  "author": "Spadalow",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NaninSultan/node-server/issues"
+    "url": "https://github.com/Spadalow/node-server/issues"
   },
-  "homepage": "https://github.com/NaninSultan/node-server#readme",
+  "homepage": "https://github.com/Spadalow/node-server#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
